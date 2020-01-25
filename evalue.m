@@ -1,6 +1,6 @@
 function y_predicted = evalue(neural_net, X)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
+%EVALUE Function to use the neural newtork (forwarding) without changing the weights.
+
 
     for i=1:length(neural_net)      
         neural_net(i) = neural_net(i).reset_bias();
