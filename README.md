@@ -1,4 +1,4 @@
-# Backtracking algorithm
+# Backtracking algorithm 
 
 ### Abstract
 Backtracking algorithm implementation using matlab by my own, without using toolboxs.
@@ -9,3 +9,10 @@ In this repo you will find a set of functions that allow you build a neural netw
 the brack propagation algorithm and the sigmoid function as the activation function.
 
 The structures and functions developed are all fully parametrized so you can desing your own neural network architecture, and implement other activation function and use it easily.
+
+### Functions provided
+
+
+
+
+# IN CONSTRUCTION.
