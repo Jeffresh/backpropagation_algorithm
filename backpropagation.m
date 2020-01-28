@@ -5,7 +5,10 @@ function neural_net = backpropagation(neural_net, cost_function, out, learning_r
     for i=length(neural_net):-1:1
         
         a = out{i+1,2};
-
+        
+        
+        % for the last layer. This is evaluated only once, so you can put this outside of the loop
+        % and start in length(neural_net) -1, put y prefer this way to not duplicate the code and readability purpouses.
         if i == length(neural_net)
 
             [~,derivated_cost] = cost_function(a,Y);
