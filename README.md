@@ -1,4 +1,4 @@
-# Backtracking algorithm 
+# Backpropagation algorithm 
 
 ### Abstract
 Backtracking algorithm implementation using matlab by my own, without using toolboxs.
