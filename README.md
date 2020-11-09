@@ -10,9 +10,3 @@ the brack propagation algorithm and the sigmoid function as the activation funct
 
 The structures and functions developed are all fully parametrized so you can desing your own neural network architecture, and implement other activation function and use it easily.
 
-### Functions provided
-
-
-
-
-# IN CONSTRUCTION.
