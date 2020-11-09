@@ -1,5 +1,5 @@
 function neural_net = backpropagation(neural_net, cost_function, out, learning_rate, Y)
-%BACKPROPAGATION  update de weights using the  backpropagation algorithm
+%BACKPROPAGATION  update the weights using the backpropagation algorithm
 %  
 
     for i=length(neural_net):-1:1
